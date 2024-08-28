@@ -1,9 +1,9 @@
 import './Section.css';
 
-function Section() {
-    return (
+function Section(){
+    return(
         <div>
-            <h2 className='section'>Section</h2>
+            <h2 className=''>BSIT 3A</h2>
         </div>
     )
 }
